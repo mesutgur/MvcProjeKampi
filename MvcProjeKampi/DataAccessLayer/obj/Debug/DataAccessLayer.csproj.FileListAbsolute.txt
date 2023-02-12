@@ -1,0 +1,14 @@
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache

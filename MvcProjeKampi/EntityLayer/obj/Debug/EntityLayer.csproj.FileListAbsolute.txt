@@ -1,0 +1,10 @@
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\MESUT\Desktop\Projects\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
